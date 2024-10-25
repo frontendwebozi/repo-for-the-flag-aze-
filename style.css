@@ -1,0 +1,25 @@
+*{
+   text-decoration: underline;
+}
+/* THIS CODE IS FOR ALL */
+
+img,iframe {
+   width: 50%;
+   height: 500px;
+}
+  /* THIS CODE IS FOR SIZE OF VIDEO AND PICTURE */
+
+  .A{
+   color: blue;
+  }
+
+  #B{
+   color: red;
+}
+
+.C{
+   color: green;
+}
+
+/* FOR H1 DECARATION */
+
